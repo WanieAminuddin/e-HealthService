@@ -1,0 +1,86 @@
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\MainWindow.g.cs
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\PageLogin.g.cs
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\PageRegister.g.cs
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\App.g.cs
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\myHealthService_MarkupCompile.cache
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\myHealthService_MarkupCompile.lref
+C:\Users\userr\source\repos\myHealthService\myHealthService\bin\Debug\myHealthService.exe.config
+C:\Users\userr\source\repos\myHealthService\myHealthService\bin\Debug\myHealthService.exe
+C:\Users\userr\source\repos\myHealthService\myHealthService\bin\Debug\myHealthService.pdb
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\MainWindow.baml
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\PageLogin.baml
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\PageRegister.baml
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\myHealthService.g.resources
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\myHealthService.Properties.Resources.resources
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\myHealthService.csproj.GenerateResource.Cache
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\myHealthService.csproj.CoreCompileInputs.cache
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\myHealthService.exe
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\myHealthService.pdb
+C:\Users\userr\source\repos\myHealthService\myHealthService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\PagePortal.g.cs
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\PagePortal.baml
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\myHealthService.SociaLogin.resources
+C:\Users\userr\source\repos\myHealthService\myHealthService\bin\Debug\QRCoder.dll
+C:\Users\userr\source\repos\myHealthService\myHealthService\bin\Debug\System.Drawing.Common.dll
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\myHealthService.csprojResolveAssemblyReference.cache
+C:\Users\userr\source\repos\myHealthService\myHealthService\obj\Debug\myHealthService.QRcodeDisplay.resources
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\bin\Debug\myHealthService.exe.config
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\bin\Debug\myHealthService.exe
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\bin\Debug\myHealthService.pdb
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\bin\Debug\QRCoder.dll
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\bin\Debug\System.Drawing.Common.dll
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\myHealthService.csprojResolveAssemblyReference.cache
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\MainWindow.g.cs
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\PageLogin.g.cs
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\PagePortal.g.cs
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\PageRegister.g.cs
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\App.g.cs
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\myHealthService_MarkupCompile.cache
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\myHealthService_MarkupCompile.lref
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\MainWindow.baml
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\PageLogin.baml
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\PagePortal.baml
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\PageRegister.baml
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\myHealthService.g.resources
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\myHealthService.Properties.Resources.resources
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\myHealthService.QRcodeDisplay.resources
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\myHealthService.SociaLogin.resources
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\myHealthService.csproj.GenerateResource.Cache
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\myHealthService.csproj.CoreCompileInputs.cache
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\myHealthService.exe
+C:\Users\userr\Desktop\Accenture Code Challenge\Codes\myHealthService\myHealthService\obj\Debug\myHealthService.pdb
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\myHealthService.exe.config
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\myHealthService.exe
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\myHealthService.pdb
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\QRCoder.dll
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\System.Drawing.Common.dll
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService.csprojResolveAssemblyReference.cache
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\MainWindow.g.cs
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\PageLogin.g.cs
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\PagePortal.g.cs
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\PageRegister.g.cs
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\App.g.cs
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService_MarkupCompile.cache
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService_MarkupCompile.lref
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\MainWindow.baml
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\PageLogin.baml
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\PagePortal.baml
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\PageRegister.baml
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService.g.resources
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService.Properties.Resources.resources
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService.QRcodeDisplay.resources
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService.SociaLogin.resources
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService.csproj.GenerateResource.Cache
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService.csproj.CoreCompileInputs.cache
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService.exe
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService.pdb
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\zxing.dll
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\zxing.presentation.dll
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\zxing.pdb
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\zxing.xml
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\zxing.presentation.pdb
+C:\Users\userr\Desktop\myHealthService\myHealthService\bin\Debug\zxing.presentation.xml
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService.IGsignin.resources
+C:\Users\userr\Desktop\myHealthService\myHealthService\obj\Debug\myHealthService.PinterestSignin.resources

@@ -1,0 +1,72 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Newtonsoft.Json;
+using System.Net;
+using System.IO;
+
+namespace InstagramAPI.Class
+{
+    public class AuthResponse
+    {
+        private string access_token;
+        public string Access_token
+        {
+            get
+            {
+                return access_token;
+            }
+            set { access_token = value; }
+        }
+        public string refresh_token { get; set; }
+        public string clientId { get; set; }
+        public string secret { get; set; }
+
+        public static AuthResponse get(string response)
+        {
+            AuthResponse result = JsonConvert.DeserializeObject<AuthResponse>(response);
+            return result;
+        }
+
+        public static AuthResponse Exchange(string authCode, string clientid, string secret, string redirectURI)
+        {
+
+            var request = (HttpWebRequest)WebRequest.Create("https://api.instagram.com/oauth/access_token");
+
+            string postData = string.Format("code={0}&redirect_uri={1}&client_id={2}&client_secret={3}&scope=&grant_type=authorization_code", authCode, redirectURI, clientid, secret);
+            var data = Encoding.ASCII.GetBytes(postData);
+
+            request.Method = "POST";
+            request.ContentType = "application/x-www-form-urlencoded";
+            request.ContentLength = data.Length;
+
+            using (var stream = request.GetRequestStream())
+            {
+                stream.Write(data, 0, data.Length);
+            }
+
+            var response = (HttpWebResponse)request.GetResponse();
+            var responseString = new StreamReader(response.GetResponseStream()).ReadToEnd();
+            var x = AuthResponse.get(responseString);
+
+            x.clientId = clientid;
+            x.secret = secret;
+
+            return x;
+
+        }
+
+        public static Uri GetAutenticationURI(string clientId, string redirectUri)
+        {
+            if (string.IsNullOrEmpty(redirectUri))
+            {
+                redirectUri = string.Format("http://localhost/igauth/auth/ig/callback/");
+            }
+            string oauth = string.Format("https://api.instagram.com/oauth/authorize?response_type=code&scope=basic+public_content&redirect_uri={0}&client_id={1}", redirectUri, clientId);
+            return new Uri(oauth);
+        }
+    }
+}
+
