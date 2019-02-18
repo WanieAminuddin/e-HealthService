@@ -7,7 +7,7 @@ e-Health Application aimed for user registration and unique QR code generator ba
           CREATE DATABASE PatientDB;
           Go
 
-          CREATE TABLE testing3.dbo.Registration(
+          CREATE TABLE PatientDB.dbo.Registration(
               FirstName varchar(255),
               LastName varchar(255),
               Email varchar(255),Password varchar(255),
